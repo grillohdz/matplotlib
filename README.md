@@ -1,2 +1,2 @@
 # matplotlib
-Homework on cities, their drives and drivers
+Homework on cities, their drives and riders
